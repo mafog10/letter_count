@@ -1,0 +1,5 @@
+name: letter_count
+author: Maxim Fournier-Giguère
+description: Exercice 2 SIO-6014
+dependencies:
+  browser: any
